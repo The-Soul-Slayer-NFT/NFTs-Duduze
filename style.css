@@ -81,7 +81,7 @@ a .btn {
 }
 
 .hero .heroD {
-    background-image: url('img/duduze.gif');
+    background-image: url('img/Wave1.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -116,6 +116,7 @@ a .btn {
     font-size: 2rem;
     font-weight: 700;
 }
+
 
 .hero .socials {
     position: absolute;
